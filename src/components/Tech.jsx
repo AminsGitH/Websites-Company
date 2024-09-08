@@ -15,7 +15,7 @@ const Tech = () => {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-2 mt-3 mb-3">
               <img
-                src="/src/images/bmw-car-company-logo-png-7.jpg"
+                src="./src/images/bmw-car-company-logo-png-7.jpg"
                 alt=""
                 className="img-fluid"
               />
@@ -49,12 +49,15 @@ const Tech = () => {
         <p className="text-white-50">
           Message us with your project details and leave the rest to us.
         </p>
-        <Link className="btn   rounded-pill main-btn p-3 mt-5 mb-5 " to={"/register"}>
+        <Link
+          className="btn   rounded-pill main-btn p-3 mt-5 mb-5 "
+          to={"/register"}
+        >
           START A NEW PROJECT
         </Link>
       </div>
     </>
   );
-}
+};
 
-export default Tech
+export default Tech;
