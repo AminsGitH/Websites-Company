@@ -19,7 +19,7 @@ const Blog = () => {
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div className="card w-100">
                 <img
-                  src="/src/images/51099d50ed6a0c6fa4e74f1260db024b.png"
+                  src="/src/images/blog.png"
                   className="card-img-top img-fluid"
                   alt="..."
                 />
@@ -33,7 +33,7 @@ const Blog = () => {
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div className="card w-100">
                 <img
-                  src="/src/images/51099d50ed6a0c6fa4e74f1260db024b.png"
+                  src="/src/images/blog.png"
                   className="card-img-top img-fluid"
                   alt="..."
                 />
@@ -47,7 +47,7 @@ const Blog = () => {
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div className="card w-100">
                 <img
-                  src="/src/images/51099d50ed6a0c6fa4e74f1260db024b.png"
+                  src="/src/images/blog.png"
                   className="card-img-top img-fluid"
                   alt="..."
                 />

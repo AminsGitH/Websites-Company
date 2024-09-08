@@ -8,21 +8,21 @@ const Tech = () => {
           <div className="row align-items-center gap-5 ">
             <div className="col-sm-6 col-md-4 col-lg-2 mt-3 mb-3">
               <img
-                src="/src/images/logo-salesforce-png-salesforce-company-logo-png-download-600.png"
+                src="/src/images/lbc.webp"
                 alt=""
                 className="img-fluid m-5 "
               />
             </div>
             <div className="col-sm-6 col-md-4 col-lg-2 mt-3 mb-3">
               <img
-                src="./src/images/bmw-car-company-logo-png-7.jpg"
+                src="/src/images/bmw.jpg"
                 alt=""
                 className="img-fluid"
               />
             </div>
             <div className="col-sm-6 col-md-4 col-lg-2 mt-3 mb-3">
               <img
-                src="/src/images/pngtree-company-name-logo-design-for-award-picture-image_8228303.png"
+                src="/src/images/salseforce.png"
                 alt=""
                 className="img-fluid"
               />
