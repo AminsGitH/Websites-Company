@@ -19,7 +19,7 @@ const Blog = () => {
             <div className="col-lg-4 col-md-6 col-sm-12">
               <div className="card w-100">
                 <img
-                  src="/src/images/blog.png"
+                  src="./src/images/blog.png"
                   className="card-img-top img-fluid"
                   alt="..."
                 />
