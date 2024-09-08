@@ -15,7 +15,7 @@ const Tech = () => {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-2 mt-3 mb-3">
               <img
-                src="/src/images/bmw.jpg"
+                src="/src/images/bmw.JPG"
                 alt=""
                 className="img-fluid"
               />
