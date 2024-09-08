@@ -29,14 +29,14 @@ const Tech = () => {
             </div>
             <div className="col-sm-6 col-md-4 col-lg-2 mt-3 mb-3">
               <img
-                src="/src/images/LBC_Mark_Closed_Blk_Out.webp"
+                src="/src/images/pngtree-company-name-logo-design-for-award-picture-image_8228303.png"
                 alt=""
                 className="img-fluid"
               />
             </div>
             <div className="col-sm-6 col-md-4 col-lg-2 mt-3 mb-3">
               <img
-                src="/src/images/The+Small+Pool+Co+300dpi.png"
+                src="/src/images/small pool.png"
                 alt=""
                 className="img-fluid"
               />
